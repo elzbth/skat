@@ -1,0 +1,7 @@
+main:
+  - title: "Tour Schedule"
+    url: /_pages/calendar.html
+  - title: "About Us"
+    url: /_pages/about.html
+  - title: "Contact"
+    url: /_pages/location.html

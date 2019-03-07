@@ -1,0 +1,2 @@
+
+At Storm King Adventure Tours our goal is to enable access to environmentally responsible activities through offering guided outdoor tours. We believe the Hudson River to be among our region’s greatest resources; we are proud to share it with our visitors. We provide all the gear, technical expertise and local knowledge to ensure a safe and enjoyable experience. 
