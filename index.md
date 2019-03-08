@@ -8,5 +8,5 @@ header:
     overlay_filter: 0.5
     actions:
     - label: "Find your adventure"
-      url: "/_pages/calendar.html"
+      url: "_pages/calendar.html"
 ---
