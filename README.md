@@ -1,1 +1,3 @@
-<a href="/assets/images/SKAT.jpg"><img src="/assets/images/SKAT.jpg"></a>
+---
+permalink: /index.html
+---

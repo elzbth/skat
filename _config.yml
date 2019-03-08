@@ -1,9 +1,8 @@
 remote_theme: "mmistakes/minimal-mistakes@4.13.0"
 
-logo: "assets/images/SKAT_logo.png"
 
 title: "Storm King Adventure Tours"
-
+logo: "/assets/images/SKAT_logo.png"
 
 defaults:
   # _pages
